@@ -1,0 +1,6 @@
+{
+  "main": "consoleSimulator.js",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
